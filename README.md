@@ -61,9 +61,7 @@ SHUTTLERS_EMAIL=your_email
 
 SHUTTLERS_PASSWORD=your_password
 
-Never commit this file.
-
-For CI, configure GitHub repository secrets.
+For the CI, we have already configured GitHub secrets on this repository.
 
 
 ## 🔁 CI/CD
