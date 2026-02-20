@@ -74,7 +74,7 @@ For the CI, we have already configured GitHub secrets on this repository.
 
 - Page Object Model
 
-- Test data separation
+- Test data separation and isolation
 
 - Fixtures for dependency injection
 
